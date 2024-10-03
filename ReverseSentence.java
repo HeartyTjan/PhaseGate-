@@ -17,8 +17,6 @@ public class ReverseSentence{
 		String [] sen = sentence.split(" ");
 		int size = sen.length;
 
-		String [] reverse = new String [size];
-
 		for( int count = sen.length-1; count >= 0 ; count--){
 	
 				System.out.print(sen[count] + " ");
