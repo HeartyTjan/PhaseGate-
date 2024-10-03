@@ -5,7 +5,6 @@ public class SortedSquare{
 	public static void main(String... args){
 
 		int [] numbers = {2,1,-7,3,5,9};
-		//System.out.print(getSquare(9));
 
 		SortedSquare sort = new SortedSquare();
 
